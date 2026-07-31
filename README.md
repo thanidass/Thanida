@@ -98,6 +98,9 @@ _Add 2–4 projects max. Each row should fit on one screen._ -->
 - ได้รับเกียรติบัตรใบประกาศนียบัตร รางวัลเรียนดี (2567-2569)
 
 ---
+<p align="center">
+  <img src="gif3.gif" alt="header image"width="10%" />
+</p>
 
 ## 🤝 Let’s Connect
 > **“Make it work, make it right, make it fast. by Kent Beck”**
