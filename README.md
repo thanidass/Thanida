@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I’m Thanida Wiangkham <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
 
 <p align="center">
-  <strong> Web Developer • Full-stack • Mobile Developer</strong><br/>
+  <strong> Web Developer </strong><br/>
   <em>“Code. Create. Connect across all platforms.”</em>
 </p>
 
@@ -53,12 +53,12 @@ _Add 2–4 projects max. Each row should fit on one screen._ -->
 - ⟪Aug 2025⟫ • Business Model Canvas และการประยุกต์ใช้ AI กับการวางแผนธุรกิจเบื้องต้น (15 ส.ค. 2568)
 - ⟪Nov 2024⟫ • โครงการพัฒนาศักยภาพเยาวชนทางเทคโนโลยีสารสนเทศ ITCAMP MAEJO (1 พ.ย. 2567)
 - ⟪Nov 2024⟫ • จิตอาสาเพื่อชุมชนและสังคม ณ โรงเรียนบ้านปางเฟือง อ.เชียงดาว จ.เชียงใหม่ (22-23 พ.ย. 2567)
-- ⟪Sep 2024⟫ • ได้รับเกียรติบัตรใบประกาศนียบัตร รางวัลเรียนดี (3 ก.ย. 2567)
+- ได้รับเกียรติบัตรใบประกาศนียบัตร รางวัลเรียนดี (2567-2569)
 
 ---
 
 ## 🤝 Let’s Connect
-> **“Make it work, make it right, make it fast.”**
+> **“Make it work, make it right, make it fast. by Kent Beck”**
 
 - 💌 Email: **Thanidass1234@gmail.com**  
 - 💬 Line ID: **qyyyyyyyp** 
