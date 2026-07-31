@@ -16,10 +16,10 @@
 ## 🚀 About Me
 * 🌍  I'm based in Phayao
 * ✉️  You can contact me at [thanidass1234@gmail.com](mailto:thanidass1234@gmail.com)
-* 🧠  I'm currently learning HTML, CSS, JavaScript, Next.js, Reactjs
-- 🎓 I’m currently an **Information Technology (IT) student**  
-- 🌱 I’m currently focusing on ** Web Development**  
-- 🎯 2026 Goal: **Build and deploy a complete full-stack web application**  
+*🎓 I'm an Information Technology (IT) student based in Phayao
+*💻 Focusing on Web Development, currently learning HTML, CSS, JavaScript, Next.js, and React.js
+*🎯 2026 Goal: Build and deploy a complete full-stack web application
+*📫 You can contact me at thanidass1234@gmail.com 
 
 
 ---
