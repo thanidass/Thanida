@@ -14,11 +14,13 @@
 ---
 
 ## 🚀 About Me
+* 🌍  I'm based in Phayao
+* ✉️  You can contact me at [thanidass1234@gmail.com](mailto:thanidass1234@gmail.com)
+* 🧠  I'm currently learning HTML, CSS, JavaScript, Next.js, Reactjs
 - 🎓 I’m currently an **Information Technology (IT) student**  
-- 🌱 I’m currently focusing on **Full-stack, Web, and Mobile Development**  
-- 🛠 Daily driver stack: **HTML, CSS, JavaScript, Next.js, React**  
+- 🌱 I’m currently focusing on ** Web Development**  
 - 🎯 2026 Goal: **Build and deploy a complete full-stack web application**  
-- 📫 Reach me: **Thanidass1234@gmail.com**
+
 
 ---
 
@@ -61,7 +63,10 @@ _Add 2–4 projects max. Each row should fit on one screen._ -->
 > **“Make it work, make it right, make it fast. by Kent Beck”**
 
 - 💌 Email: **Thanidass1234@gmail.com**  
-- 💬 Line ID: **qyyyyyyyp** 
+- 💬 Line ID: **qyyyyyyyp**
+- ### Socials
+
+<p align="left"> <a href="https://www.github.com/thanidass" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>  <a href="https://www.facebook.com/Thanida Wiangkham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
 
 <br />
 
