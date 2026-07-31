@@ -16,10 +16,10 @@
 ## 🚀 About Me
 * 🌍  I'm based in Phayao
 * ✉️  You can contact me at [thanidass1234@gmail.com]
-*🎓 I'm an Information Technology (IT) student based in Phayao
-*💻 Focusing on Web Development, currently learning HTML, CSS, JavaScript, Next.js, and React.js
-*🎯 2026 Goal: Build and deploy a complete full-stack web application
-*📫 You can contact me at thanidass1234@gmail.com 
+* 🎓  I'm an Information Technology (IT) student 
+* 💻  Focusing on Web Development, currently learning HTML, CSS, JavaScript, Next.js, and React.js
+* 🎯  2026 Goal: Build and deploy a complete full-stack web application
+* 📫  You can contact me at thanidass1234@gmail.com 
 
 
 ---
@@ -38,6 +38,36 @@
 </div>
 
 ---
+## 📚 Featured Project Details
+Project Name: Rabies Prevention and Control Project Management System — Mae Rim Subdistrict Municipality (Rim Tai)
+Overview:
+A web-based vaccination queue booking system for the Mae Rim village area. The system is developed with three user roles: Admin, VHV (Village Health Volunteer), and Mayor. 
+This project covers the web application portion only; 
+a teammate is separately developing the companion mobile application.
+
+Roles & Responsibilities:
+1. Admin
+- Create / edit projects (programs)
+- Create / edit appointments (vaccination scheduling)
+- Create / edit staff (officer) information
+- Manage budget and equipment procurement
+- Approve reports submitted by users
+- View review/feedback data
+2. VHV (อสม. — Village Health Volunteer)
+- View and update users' booking information
+3. Mayor
+- Approve budgets
+- Approve equipment procurement
+<div align="center">
+
+|Tech Stack|IDE/Code Editor| 
+|--------|------------------|
+| Frontend: Next.js | Visual Studio Code|
+| Backend: Spring Boot | IntelliJ IDEA |
+| Database: MySQL | mysql workbench |
+</div>
+
+**"Scope note: This description covers the web application only. It's built collaboratively with a teammate who is developing the mobile app side (which presumably feeds real user/booking data into this system via the Spring Boot API)."**
 
 <!--## 📌 Featured Projects
 | Project | Tech | Highlights | Links |
