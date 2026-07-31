@@ -19,7 +19,7 @@
 * 🎓  I'm an Information Technology (IT) student 
 * 💻  Focusing on Web Development, currently learning HTML, CSS, JavaScript, Next.js, and React.js
 * 🎯  2026 Goal: Build and deploy a complete full-stack web application
-* 📫  You can contact me at thanidass1234@gmail.com 
+
 
 
 ---
