@@ -31,7 +31,7 @@
 
 ---
 <p align="center">
-  <img src="gif1.gif" alt="header image"width="20%" />
+  <img src="gif2.gif" alt="header image"width="20%" />
 </p>
 
 ## 🧰 Tech Stack & Tools
