@@ -103,8 +103,6 @@ _Add 2–4 projects max. Each row should fit on one screen._ -->
 </p>
 
 ## 🤝 Let’s Connect
-> **“Make it work, make it right, make it fast. by Kent Beck”**
-
 - 💌 Email: **Thanidass1234@gmail.com**  
 - 💬 Line ID: **qyyyyyyyp**
 - ### Socials
