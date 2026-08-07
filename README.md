@@ -43,12 +43,11 @@
 | **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
 | **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
-| **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=google-gemini&logoColor=white) ![Kimi AI](https://img.shields.io/badge/Kimi_AI-4A90E2?logoColor=white) |
-
+| **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=google-gemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white) ![Kimi AI](https://img.shields.io/badge/Kimi_AI-4A90E2?logoColor=white) |
 </div>
 
 ---
-## 📚 Featured Project Details
+## 📚 Featured Project Details 💁‍♀️
 Project Name: Rabies Prevention and Control Project Management System — Mae Rim Subdistrict Municipality (Rim Tai)
 Overview:
 A web-based vaccination queue booking system for the Mae Rim village area. The system is developed with three user roles: Admin, VHV (Village Health Volunteer), and Mayor. 
@@ -56,19 +55,19 @@ This project covers the web application portion only;
 a teammate is separately developing the companion mobile application.
 
 Roles & Responsibilities:
-1. Admin
+1. Admin 👩‍💻
 - Create / edit projects (programs)
 - Create / edit appointments (vaccination scheduling)
 - Create / edit staff (officer) information
 - Manage budget and equipment procurement
 - Approve reports submitted by users
 - View review/feedback data
-2. VHV (อสม. — Village Health Volunteer)
+2. VHV (Village Health Volunteer) 🧍‍♀️
 - View and update users' booking information
-3. Mayor
+3. Mayor 🧍‍♂️
 - Approve budgets
 - Approve equipment procurement
-<div align="center">
+<div align="left">
 
 |Tech Stack|IDE/Code Editor| 
 |--------|------------------|
@@ -103,8 +102,9 @@ _Add 2–4 projects max. Each row should fit on one screen._ -->
 </p>
 
 ## 🤝 Let’s Connect
-- 💌 Email: **Thanidass1234@gmail.com**  
+- 📧 Email: **Thanidass1234@gmail.com**  
 - 💬 Line ID: **qyyyyyyyp**
+- 💬 Facebook: **Thanida  Wiangkham**
 - ### Socials
 
 <p align="left"> <a href="https://www.github.com/thanidass" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>  <a href="https://www.facebook.com/Thanida Wiangkham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
