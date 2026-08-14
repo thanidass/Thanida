@@ -1,9 +1,6 @@
 
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="dissociative dolls ♡ • Community on Tumblr.gif" alt="header image"width="40%" />
-</p>
-<p align="center">
  <img src="cv image.png" alt="header image" width="40%" /> 
 </p>
 
@@ -24,7 +21,7 @@
 * 🌍  I'm based in Phayao
 * ✉️  You can contact me at [thanidass1234@gmail.com]
 * 🎓  I'm an Information Technology (IT) student 
-* 💻  Focusing on Web Development, currently learning HTML, CSS, JavaScript, Next.js, and React.js
+* 💻  Focusing on Web Development, currently learning HTML, CSS, JavaScript, Next.js, and React.js, JAVA
 * 🎯  2026 Goal: Build and deploy a complete full-stack web application
 
 
@@ -42,7 +39,7 @@
 | **Frontend & Mobile** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) <br> ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) |
 | **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black) |
-| **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
+| **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
 | **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=google-gemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white) ![Kimi AI](https://img.shields.io/badge/Kimi_AI-4A90E2?logoColor=white) |
 </div>
 
@@ -69,11 +66,11 @@ Roles & Responsibilities:
 - Approve equipment procurement
 <div align="left">
 
-|Tech Stack|IDE/Code Editor| 
+| Tech Stack | IDE/Code Editor |
 |--------|------------------|
-| Frontend: Next.js | Visual Studio Code|
-| Backend: Spring Boot | IntelliJ IDEA |
-| Database: MySQL | mysql workbench |
+|Frontend: ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)  | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code&logoColor=white)  |
+|Backend: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white) |
+|Database: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)   | ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql&logoColor=white)  |
 </div>
 
 **"Scope note: This description covers the web application only. It's built collaboratively with a teammate who is developing the mobile app side (which presumably feeds real user/booking data into this system via the Spring Boot API)."**
