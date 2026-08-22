@@ -1,7 +1,7 @@
 
 <!-- Banner / Cover -->
 <p align="center">
- <img src="cv image.png" alt="header image" width="15%" /> 
+ <img src="cv image.png" alt="header image" width="20%" /> 
 </p>
 
 <p align="center">
@@ -162,7 +162,7 @@ Roles & Responsibilities:
 ---
 
 <p align="center">
-  <img src="gif3.gif" alt="header image"width="20%" />
+  <img src="gif3.gif" alt="header image"width="10%" />
 </p>
 </div>
 
