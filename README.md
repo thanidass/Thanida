@@ -1,11 +1,11 @@
 
 <!-- Banner / Cover -->
 <p align="center">
- <img src="cv image.png" alt="header image" width="40%" /> 
+ <img src="cv image.png" alt="header image" width="15%" /> 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBDCB,100:FFD8D9&height=200&section=header&text=Thanida%20Wiangkham&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer&descAlignY=55&descSize=18" alt="header banner" />
+  <img src="https://raw.githubusercontent.com/thanidass/Thanida/main/github-header-banner.svg" alt="header banner" />
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ Roles & Responsibilities:
 | งานอดิเรก | รายละเอียด | ตัวอย่างผลงาน / สิ่งที่ชอบ |
 | :--- | :--- | :--- |
 | **🧶 ถักโครเชต์** | เป็นกิจกรรมที่ช่วยฝึกสมาธิและความใจเย็น ชอบถักชิ้นงานน่ารักๆ เช่น เสื้อผ้า รูปทรงเช่นดอกไม้ เคสแอร์พอร์ต ผ้าคลุมตู้เย็น | <img src="Crochet.jpg" alt="Crochet Work" width="150" style="border-radius: 10px;" /> |
-| **📖 อ่านหนังสือ** | ชอบอ่านหนังสือแนวพัฒนาตนเอง (Self-Improvement) เพื่อสร้างแรงบันดาลใจ และแนว IT เพื่ออัปเดตความรู้ใหม่ๆ  | <img src="book.jpg" alt="Book Reading" width="150" style="border-radius: 10px;" /> |
+| **📖 อ่านหนังสือ** | ชอบอ่านหนังสือแนวพัฒนาตนเอง (Self-Improvement) เพื่อสร้างแรงบันดาลใจ และเรียนรู้สิ่งใหม่ไปกับการอ่านหนังสือ   | <img src="book.jpg" alt="Book Reading" width="150" style="border-radius: 10px;" /> |
 
 </div>
 
@@ -162,7 +162,7 @@ Roles & Responsibilities:
 ---
 
 <p align="center">
-  <img src="gif3.gif" alt="header image"width="10%" />
+  <img src="gif3.gif" alt="header image"width="20%" />
 </p>
 </div>
 
@@ -170,6 +170,7 @@ Roles & Responsibilities:
 - 📧 Email: **Thanidass1234@gmail.com**  
 - 💬 Line ID: **qyyyyyyyp**
 - 💬 Facebook: **Thanida  Wiangkham**
+- 📞 Phone number: **0972308592**
 - ### Socials
 
 <p align="left"> <a href="https://www.github.com/thanidass" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a>  <a href="https://www.facebook.com/Thanida Wiangkham" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
