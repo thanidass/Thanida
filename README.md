@@ -5,14 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="gif1.gif" alt="header image"width="20%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBDCB,100:FFD8D9&height=200&section=header&text=Thanida%20Wiangkham&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer&descAlignY=55&descSize=18" alt="header banner" />
 </p>
 
-<h1 align="center">Hi, I’m Thanida Wiangkham <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
-
 <p align="center">
-  <strong> Web Developer </strong><br/>
-  <em>“Code. Create. Connect across all platforms.”</em>
+ <em>“Code. Create. Connect across all platforms.”</em>
 </p>
 
 ---
@@ -42,35 +39,38 @@
 | **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
 | **AI Tools** | ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=google-gemini&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white) ![Kimi AI](https://img.shields.io/badge/Kimi_AI-4A90E2?logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)|
 
+
 ---
+<div align="left">
+ 
 ## 📚 Featured Project Details 💁‍♀️
-Project Name: Rabies Prevention and Control Project Management System — Mae Rim Subdistrict Municipality (Rim Tai)
+Project Name: Rabies Prevention and Control Project Management System  Mae Rim Subdistrict Municipality (Rim Tai)
 Overview:
 A web-based vaccination queue booking system for the Mae Rim village area. The system is developed with three user roles: Admin, VHV (Village Health Volunteer), and Mayor. 
 This project covers the web application portion only; 
 a teammate is separately developing the companion mobile application.
-
-<div align="center">
- 
-| 🔗 Link |
-|:---------:|
-| [![Pet Vaccine Mae Rim](https://img.shields.io/badge/🚀_Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://petvaccinemearim.vercel.app/) |
-
 </div>
+
+
+
+<div align="left">
 
 Roles & Responsibilities:
 1. Admin 👩‍💻
-- Create / edit projects (programs)
-- Create / edit appointments (vaccination scheduling)
-- Create / edit staff (officer) information
-- Manage budget and equipment procurement
-- Approve reports submitted by users
-- View review/feedback data
+ - Create / edit projects (programs)
+ - Create / edit appointments (vaccination scheduling)
+ - Create / edit staff (officer) information
+ - Manage budget and equipment procurement
+ - Approve reports submitted by users
+ - View review/feedback data
 2. VHV (Village Health Volunteer) 🧍‍♀️
-- View and update users' booking information
+ - View and update users' booking information
 3. Mayor 🧍‍♂️
-- Approve budgets
-- Approve equipment procurement
+ - Approve budgets
+ - Approve equipment procurement
+
+</div>
+
 <div align="left">
 
 | Tech Stack | IDE/Code Editor |
@@ -78,30 +78,71 @@ Roles & Responsibilities:
 |Frontend: ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)  | ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?logo=visual%20studio%20code&logoColor=white)  |
 |Backend: ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white) |
 |Database: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)   | ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql&logoColor=white)  |
+
+---
+<p align="center">
+  <img src="gif1.gif" alt="header image"width="20%" />
+</p>
+
+<div align="center">
+
+## Project Example 📔
+
+<table>
+<tr>
+<td bgcolor="#1e1e2e" align="center">
+
+**🔗 Link**
+
+[![Pet Vaccine Mae Rim](https://img.shields.io/badge/🚀_Web_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://petvaccinemearim.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+</div>
 </div>
 
-**"Scope note: This description covers the web application only. It's built collaboratively with a teammate who is developing the mobile app side (which presumably feeds real user/booking data into this system via the Spring Boot API)."**
+<div align="center">
+**"Scope note: This description covers only the web application portion, which was developed entirely by me. It was built in collaboration with a teammate who was responsible for the mobile application side."**
+</div>
 
-<!--## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **Project A** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](#) · [Live](#) |
-| **Project B** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](#) |
-| **Project C** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](#) |
-
-_Add 2–4 projects max. Each row should fit on one screen._ -->
 
 ---
 
+<div align="left">
+ 
 ## 🏆 Certificates & Activities
+
+</div>
+
+<div align="left">
+
+- ⟪Sep 2026⟫ • งานบริการสังคม ณ โรงเรียนบ้านบวกค้าง ตำบล: บวกค้าง อ.สันกำแพง จ.เชียงใหม่ (21 ก.ย. 2569)
+  > รับผิดชอบในหน้าที่ติดต่อไปทางโรงเรียนประสานงานให้กับเพื่อนในกลุ่มและทางฝั่งโรงเรียนในการร่วมกันจัดกิจกรรม รวมถึงติดต่อการเบิกงบค่าอาหารต่างๆ ได้รับตำแหน่งหน้าที่เป็นเรขานุการ
+
 - ⟪May 2026⟫ • โครงการอบรมเชิงปฏิบัติการเพื่อเพิ่มพูนทักษะด้านการเรียนให้กับนักศึกษาอบรม Agile (7-8 พ.ค. 2569)
+  > เข้าร่วมอบรมแล้วนำความรู้ด้าน Agile มาประยุกต์ใช้ในการทำงานร่วมกันเป็นทีม
+
 - ⟪Aug 2025⟫ • Business Model Canvas และการประยุกต์ใช้ AI กับการวางแผนธุรกิจเบื้องต้น (15 ส.ค. 2568)
+  > เข้าร่วมฟังอบรม และนำความรู้ไปประยุกต์ใช้ในการทำงานกลุ่มร่วมกับเพื่อนในคาบเรียน วิชา start up
+
 - ⟪Nov 2024⟫ • โครงการพัฒนาศักยภาพเยาวชนทางเทคโนโลยีสารสนเทศ ITCAMP MAEJO (1 พ.ย. 2567)
+  > เข้าร่วมกิจกรรมของสาขา รับผิดชอบในส่วนการแนะนำสถานที่ให้แก่ผู้ที่มาเข้าร่วมโครงการของสาขา
+
 - ⟪Nov 2024⟫ • จิตอาสาเพื่อชุมชนและสังคม ณ โรงเรียนบ้านปางเฟือง อ.เชียงดาว จ.เชียงใหม่ (22-23 พ.ย. 2567)
-- ได้รับเกียรติบัตรใบประกาศนียบัตร รางวัลเรียนดี (2567-2569)
+  > เข้าร่วมกิจกรรมของสาขา รับผิดชอบในส่วนการบริการและการดูแล
+
+- ⟪ได้รับเกียรติบัตรใบประกาศนียบัตร รางวัลเรียนดี (2567-2569)
+
+</div>
 
 ---
+<div align="left">
+
 ## 🎼🏃‍♀️‍➡️📓🖌️ (Hobbies & Interests)
+</div>
+
 <div align="center">
 
 | งานอดิเรก | รายละเอียด | ตัวอย่างผลงาน / สิ่งที่ชอบ |
@@ -111,14 +152,19 @@ _Add 2–4 projects max. Each row should fit on one screen._ -->
 
 </div>
 
+<div align="left">
+ 
 - *📚 หนังสือที่กำลังอ่านอยู่ช่วงนี้: `The Road Less Traveled `*  
 - *🎨 งานอดิเรกที่สนใจ เพิ่มในช่วงนี้: `ฝึกออกแบบหน้าเว็ป , ทบทวนและเรียนรู้โค้ดในส่วนที่อยากพัฒนา `*
+  
+</div>
 
 ---
 
 <p align="center">
   <img src="gif3.gif" alt="header image"width="10%" />
 </p>
+</div>
 
 ## 🤝 Let’s Connect
 - 📧 Email: **Thanidass1234@gmail.com**  
