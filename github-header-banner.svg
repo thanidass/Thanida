@@ -1,0 +1,46 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFBDCB"/>
+      <stop offset="100%" stop-color="#FFD8D9"/>
+    </linearGradient>
+    <path id="starShape" d="M12 0 L15 8 L24 9 L17 15 L19 24 L12 19 L5 24 L7 15 L0 9 L9 8 Z"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGradient)"/>
+
+  <!-- Wave at bottom -->
+  <path d="M0,260 C150,300 350,220 600,250 C850,280 1050,220 1200,250 L1200,300 L0,300 Z" fill="#FFFFFF" opacity="0.25"/>
+  <path d="M0,270 C200,240 400,290 600,265 C800,240 1000,285 1200,260 L1200,300 L0,300 Z" fill="#FFFFFF" opacity="0.35"/>
+
+  <!-- Scattered stars -->
+  <g fill="#FFFFFF" opacity="0.85">
+    <use href="#starShape" x="60" y="40" transform="scale(1.4)" transform-origin="60 40"/>
+    <use href="#starShape" x="1080" y="35" transform="scale(1.6)" transform-origin="1080 35"/>
+    <use href="#starShape" x="140" y="220" transform="scale(1.1)" transform-origin="140 220"/>
+    <use href="#starShape" x="1000" y="230" transform="scale(1.3)" transform-origin="1000 230"/>
+    <use href="#starShape" x="950" y="70" transform="scale(0.9)" transform-origin="950 70"/>
+    <use href="#starShape" x="90" y="120" transform="scale(0.8)" transform-origin="90 120"/>
+    <use href="#starShape" x="1140" y="150" transform="scale(1.0)" transform-origin="1140 150"/>
+    <use href="#starShape" x="30" y="180" transform="scale(1.0)" transform-origin="30 180"/>
+    <use href="#starShape" x="250" y="50" transform="scale(0.7)" transform-origin="250 50"/>
+    <use href="#starShape" x="880" y="200" transform="scale(0.7)" transform-origin="880 200"/>
+  </g>
+
+  <!-- Small dots for extra sparkle -->
+  <g fill="#FFFFFF" opacity="0.7">
+    <circle cx="200" cy="90" r="3"/>
+    <circle cx="1000" cy="120" r="3"/>
+    <circle cx="350" cy="220" r="2.5"/>
+    <circle cx="820" cy="60" r="2.5"/>
+    <circle cx="110" cy="60" r="2"/>
+    <circle cx="1120" cy="90" r="2"/>
+  </g>
+
+  <!-- Main text -->
+  <text x="600" y="145" font-family="Verdana, Arial, sans-serif" font-size="42" font-weight="bold" fill="#4B1528" text-anchor="middle">Thanida Wiangkham</text>
+
+  <!-- Subtitle -->
+  <text x="600" y="185" font-family="Verdana, Arial, sans-serif" font-size="20" fill="#72243E" text-anchor="middle">Web Developer</text>
+</svg>
