@@ -51,6 +51,14 @@ A web-based vaccination queue booking system for the Mae Rim village area. The s
 This project covers the web application portion only; 
 a teammate is separately developing the companion mobile application.
 
+<div align="center">
+ 
+| 🔗 Link |
+|:---------:|
+| [![Pet Vaccine Mae Rim](https://img.shields.io/badge/🚀_Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://petvaccinemearim.vercel.app/) |
+
+</div>
+
 Roles & Responsibilities:
 1. Admin 👩‍💻
 - Create / edit projects (programs)
@@ -105,7 +113,7 @@ _Add 2–4 projects max. Each row should fit on one screen._ -->
 </div>
 
 - *📚 หนังสือที่กำลังอ่านอยู่ช่วงนี้: `The Road Less Traveled `*  
-- *🎨 งานอดิเรกที่สนใจ เพิ่มในช่วงนี้: `ฝึกออกแบบหน้าเว็ป  `*
+- *🎨 งานอดิเรกที่สนใจ เพิ่มในช่วงนี้: `ฝึกออกแบบหน้าเว็ป , ทบทวนและเรียนรู้โค้ดในส่วนที่อยากพัฒนา `*
 
 ---
 
